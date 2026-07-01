@@ -5,7 +5,7 @@ Automatically changes the greeting message based on the hours.
 # Features
 -> Real-time clock: Displays the current time in a clean format.
 -> Dynamic Greetings: Automatically changes the greeting message based on the hour.
-
+-> simple formate
 
 
 # Live link:- https://chetan2209-code.github.io/Dynamic-Greeting-Clock/
